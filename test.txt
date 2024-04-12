@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 branch main
-pull conflict
 =======
 branch week1
 >>>>>>> week1
